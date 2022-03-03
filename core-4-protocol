@@ -30,5 +30,13 @@
     "description":"Bio-Clear is a powerful daily detox supplement.",
     "price":49.99,
     "image_link":"https://d3k81ch9hvuctc.cloudfront.net/company/WQuny6/images/2df7cc86-595a-4be1-9a48-14bcb0e22e86.png",
+  },
+  {
+    "id":"BEYOND-OMEGA",
+    "title":"Beyond Omega Flavor Blast",
+    "link":"https://aspirenutrition.com/collections/shop-all/products/beyond-omega",
+    "description":"“Tastes like a creamsicle” & does not cause fish-burps: Beyond Omega is a premium strength fish oil formulated with pharmaceutical-grade ingredients, delicious all-natural flavor, and 3x the absorbing power of regular fish oil.",
+    "price":34.99,
+    "image_link":"https://d3k81ch9hvuctc.cloudfront.net/company/WQuny6/images/e2754969-8233-4424-a6df-2e51df920241.png",
   }
 ]
