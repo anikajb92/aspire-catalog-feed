@@ -35,8 +35,16 @@
     "id":"BEYOND-OMEGA",
     "title":"Beyond Omega Flavor Blast",
     "link":"https://aspirenutrition.com/collections/shop-all/products/beyond-omega",
-    "description":"“Tastes like a creamsicle” & does not cause fish-burps: Beyond Omega is a premium strength fish oil formulated with pharmaceutical-grade ingredients, delicious all-natural flavor, and 3x the absorbing power of regular fish oil.",
+    "description":"'Tastes like a creamsicle' & does not cause fish-burps: Beyond Omega is a premium strength fish oil formulated with pharmaceutical-grade ingredients, delicious all-natural flavor, and 3x the absorbing power of regular fish oil.",
     "price":34.99,
     "image_link":"https://d3k81ch9hvuctc.cloudfront.net/company/WQuny6/images/e2754969-8233-4424-a6df-2e51df920241.png",
+  },
+  {
+    "id":"SFH",
+    "title":"SFH Super Omega 3 Fish Oil",
+    "link":"https://aspirenutrition.com/collections/shop-all/products/sfh-fish-oil-liquid",
+    "description":"Get the benefits of Omega-3 and Vitamin D3 in liquid form with our easy-to-pump fish oil!",
+    "price":45.99,
+    "image_link":"https://d3k81ch9hvuctc.cloudfront.net/company/WQuny6/images/ad3bfc80-d32d-4a59-ab1c-70c2e06fbe20.png",
   }
 ]
