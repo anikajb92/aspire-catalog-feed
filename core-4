@@ -1,0 +1,29 @@
+[
+  {
+    "id":"BIO-HEAL-5-IN-1",
+    "title":"Bio-Heal 5-in-1 Probiotic",
+    "link":"https://aspirenutrition.com/products/bio-heal-probiotic-powder",
+    "description":"Bio-Heal is a revolutionary 5-in-1 probiotic designed to support healthy gut, immunity, and brain function. ",
+    "price":49.95,
+    "image_link":"https://www.klaviyo.com/media/images/examples/products/klaviyo-tshirt-thumbnail.png"
+  },
+  {
+    "id":"BIO-HEAL-PRO+",
+    "title":"Bio-Heal Pro+",
+    "link":"https://aspirenutrition.com/collections/immune-support-vitamins/products/bio-heal-pro-probiotic-powder-unflavored",
+    "description":"Bio-Heal Pro+ is a ‘professional-strength’ probiotic for the entire family.",
+    "price":54.99,
+    "image_link":"https://d3k81ch9hvuctc.cloudfront.net/company/WQuny6/images/3f1b9f23-6055-481d-9740-8cd66b376e4c.png"
+  },
+  {
+    "id":"KLAVIYO-TSHIRT3",
+    "title":"Classic Klaviyo T-Shirt 3",
+    "link":"https://klaviyogear.myshopify.com/collections/klaviyo-classics/products/short-sleeve-t-shirt-1",
+    "description":"Standard issue for all Klaviyos. This t-shirt has the Klaviyo logo on the front and mark diagram on the back.",
+    "price":10,
+    "image_link":"https://www.klaviyo.com/media/images/examples/products/klaviyo-tshirt-thumbnail.png",
+    "categories":["apparel","t-shirt","new-arrival","swag"],
+    "inventory_quantity":0,
+    "inventory_policy":1
+  }
+]
