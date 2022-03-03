@@ -16,14 +16,11 @@
     "image_link":"https://d3k81ch9hvuctc.cloudfront.net/company/WQuny6/images/3f1b9f23-6055-481d-9740-8cd66b376e4c.png"
   },
   {
-    "id":"KLAVIYO-TSHIRT3",
-    "title":"Classic Klaviyo T-Shirt 3",
-    "link":"https://klaviyogear.myshopify.com/collections/klaviyo-classics/products/short-sleeve-t-shirt-1",
-    "description":"Standard issue for all Klaviyos. This t-shirt has the Klaviyo logo on the front and mark diagram on the back.",
-    "price":10,
-    "image_link":"https://www.klaviyo.com/media/images/examples/products/klaviyo-tshirt-thumbnail.png",
-    "categories":["apparel","t-shirt","new-arrival","swag"],
-    "inventory_quantity":0,
-    "inventory_policy":1
+    "id":"MULTI+",
+    "title":"Multi+ Multivitamin",
+    "link":"https://aspirenutrition.com/collections/immune-support-vitamins/products/multi-vitamin-powder-unflavored",
+    "description":"Going beyond traditional multivitamins: Multi+ is powered by a professional-strength formula containing a robust and rare variety of premium strength vitamins, minerals, and nutrients that the body craves, yet struggles to get from diet alone.",
+    "price":45.99,
+    "image_link":"https://d3k81ch9hvuctc.cloudfront.net/company/WQuny6/images/71ecf1dc-d901-438b-b7a2-a33e5bcf1d67.png",
   }
 ]
