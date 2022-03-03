@@ -4,7 +4,7 @@
     "title":"Bio-Heal 5-in-1 Probiotic",
     "link":"https://aspirenutrition.com/products/bio-heal-probiotic-powder",
     "description":"Bio-Heal is a revolutionary 5-in-1 probiotic designed to support healthy gut, immunity, and brain function. ",
-    "price":49.95,
+    "price":0,
     "image_link":"https://www.klaviyo.com/media/images/examples/products/klaviyo-tshirt-thumbnail.png"
   },
   {
@@ -12,7 +12,7 @@
     "title":"Bio-Heal Pro+",
     "link":"https://aspirenutrition.com/collections/immune-support-vitamins/products/bio-heal-pro-probiotic-powder-unflavored",
     "description":"Bio-Heal Pro+ is a professional-strength probiotic for the entire family.",
-    "price":54.99,
+    "price":0,
     "image_link":"https://d3k81ch9hvuctc.cloudfront.net/company/WQuny6/images/3f1b9f23-6055-481d-9740-8cd66b376e4c.png"
   },
   {
@@ -20,7 +20,7 @@
     "title":"Multi+ Multivitamin",
     "link":"https://aspirenutrition.com/collections/immune-support-vitamins/products/multi-vitamin-powder-unflavored",
     "description":"Going beyond traditional multivitamins: Multi+ is powered by a professional-strength formula containing a robust and rare variety of premium strength vitamins, minerals, and nutrients that the body craves, yet struggles to get from diet alone.",
-    "price":45.99,
+    "price":0,
     "image_link":"https://d3k81ch9hvuctc.cloudfront.net/company/WQuny6/images/71ecf1dc-d901-438b-b7a2-a33e5bcf1d67.png"
   },
   {
@@ -28,7 +28,7 @@
     "title":"Bio-Clear Detoxification",
     "link":"https://aspirenutrition.com/collections/shop-all/products/bio-clear-detox-capsules",
     "description":"Bio-Clear is a powerful daily detox supplement.",
-    "price":49.99,
+    "price":0,
     "image_link":"https://d3k81ch9hvuctc.cloudfront.net/company/WQuny6/images/2df7cc86-595a-4be1-9a48-14bcb0e22e86.png"
   },
   {
@@ -36,7 +36,7 @@
     "title":"Beyond Omega Flavor Blast",
     "link":"https://aspirenutrition.com/collections/shop-all/products/beyond-omega",
     "description":"Tastes like a creamsicle & does not cause fish-burps: Beyond Omega is a premium strength fish oil formulated with pharmaceutical-grade ingredients, delicious all-natural flavor, and 3x the absorbing power of regular fish oil.",
-    "price":34.99,
+    "price":0,
     "image_link":"https://d3k81ch9hvuctc.cloudfront.net/company/WQuny6/images/e2754969-8233-4424-a6df-2e51df920241.png"
   },
   {
@@ -44,7 +44,7 @@
     "title":"SFH Super Omega 3 Fish Oil",
     "link":"https://aspirenutrition.com/collections/shop-all/products/sfh-fish-oil-liquid",
     "description":"Get the benefits of Omega-3 and Vitamin D3 in liquid form with our easy-to-pump fish oil!",
-    "price":45.99,
+    "price":0,
     "image_link":"https://d3k81ch9hvuctc.cloudfront.net/company/WQuny6/images/ad3bfc80-d32d-4a59-ab1c-70c2e06fbe20.png"
   }
 ]
